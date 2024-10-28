@@ -11,4 +11,5 @@
 ``cd calculadora_python``
 
 2. Execute o Script
+
 ``python3 calculadora.sh``
