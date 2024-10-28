@@ -1,6 +1,6 @@
 
 # Calculadora Python
- projeto de um script em python
+Essa é uma calculadora básica para realizar cálculos matemáticos simples.
  
 ## Instalação (Linux)
  
